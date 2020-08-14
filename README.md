@@ -3,7 +3,7 @@
 I'm a Computer Science student at Tecnológico de Monterrey!
 I'm coursing my seventh semester and planning to graduate in 2021!
 
-🔭 I’m currently working on a inventory system for an online store that I want to open!
+🔭 I’m currently working on an inventory system for an online store that I want to open!
 
 ⚡ I've worked as a freelancer developing an App using React-Native, Firebase and a couple of magic...
     Also, I was part of a team that built an educational game that you can check here -->  https://vivarama.global/index.php/alebrijes/
