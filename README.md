@@ -13,7 +13,7 @@ I'm coursing my seventh semester and planning to graduate in 2021!
 
 🌱 I’m currently learning a little bit of Data Science...
 
-I've completed this course... and planning to finish the rest of them! --> https://coursera.org/share/48a91daf39491901c66b96594034f5b1
+ I've completed this course... and planning to finish the rest of them! --> https://coursera.org/share/48a91daf39491901c66b96594034f5b1
 
 <!--
 **Gustavo-Hernandez/Gustavo-Hernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
