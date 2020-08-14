@@ -1,6 +1,6 @@
 ### Hey! 👋, I'm Gus.
 
-I'm a Computer Science student at Tecnológico de Monterrey!
+I'm a Computer Science student at the Tecnológico de Monterrey!
 I'm coursing my seventh semester and planning to graduate in 2021!
 
 🔭 I’m currently working on an inventory system for an online store that I want to open!
@@ -9,7 +9,7 @@ I'm coursing my seventh semester and planning to graduate in 2021!
 
 ⚡ Also, I was part of a team that built an educational game that you can check here -->  https://vivarama.global/index.php/alebrijes/
 
-⚡ I developed a POS system and an administrative system with React JS that lets you control the offers of a store!
+⚡ I've recently developed a POS system and an administrative system with React JS that lets you control the offers of a store!
 
 🌱 I’m currently learning a little bit of Data Science...
 
