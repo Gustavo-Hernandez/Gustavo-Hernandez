@@ -6,7 +6,9 @@ I'm coursing my seventh semester and planning to graduate in 2021!
 🔭 I’m currently working on an inventory system for an online store that I want to open!
 
 ⚡ I've worked as a freelancer developing an App using React-Native, Firebase and a couple of magic...
+
 ⚡ Also, I was part of a team that built an educational game that you can check here -->  https://vivarama.global/index.php/alebrijes/
+
 ⚡ I developed a POS system and an administrative system with React JS that lets you control the offers of a store!
 
 🌱 I’m currently learning a little bit of Data Science...
