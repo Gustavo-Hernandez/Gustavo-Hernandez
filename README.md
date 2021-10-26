@@ -3,7 +3,6 @@
 I'm a Computer Science student at the Tecnológico de Monterrey!
 I'm coursing my seventh semester and planning to graduate in 2021!
 
-🔭 I’m currently working on an inventory system for an online store that I want to open!
 
 ⚡ I've worked as a freelancer developing an App using React-Native, Firebase and a couple of magic...
 
