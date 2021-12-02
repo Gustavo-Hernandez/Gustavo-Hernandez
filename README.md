@@ -1,16 +1,13 @@
 ### Hey! 👋, I'm Gus.
 
-I'm a Computer Science student at the Tecnológico de Monterrey!
-I'm coursing my seventh semester and planning to graduate in 2021!
+I'm a Computer Science and Technology Engineer!
 
+⚡ I've worked as a freelancer developing an App using React-Native and Firebase.
+⚡ The programming languages that I use the most are: Python, Javascript and Java.
 
-⚡ I've worked as a freelancer developing an App using React-Native, Firebase and a couple of magic...
+🌱 I’m currently learning a little bit of Data Science.
 
-⚡ I've recently developed a POS system and an administrative system with React JS that lets you control the offers of a store!
-
-🌱 I’m currently learning a little bit of Data Science...
-
- I've completed this course... and planning to finish the rest of them! --> https://coursera.org/share/48a91daf39491901c66b96594034f5b1
+ For more information, here is my LinkedIn profile: https://www.linkedin.com/in/gustavohernandezs/
 
 <!--
 **Gustavo-Hernandez/Gustavo-Hernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
