@@ -2,7 +2,7 @@
 
 I'm a Computer Science and Technology Engineer!
 
-⚡ I've worked as a freelancer developing an App using React-Native and Firebase.
+⚡ I've worked as a freelancer developing an App using React-Native and Firebase.  
 ⚡ The programming languages that I use the most are: Python, Javascript and Java.
 
 🌱 I’m currently learning a little bit of Data Science.
